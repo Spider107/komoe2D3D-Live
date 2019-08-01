@@ -1,0 +1,15 @@
+{
+  "title": "App Update!",
+  "message": "This is new Feature Update",
+  "download": "https://github.com/Spider107/2d3dappupdate/raw/master/2d3dmyanmar%201.1.apk",
+  "playstore": "com.azm.a2d3dmyanmar",
+  "uninstall":false,
+  "what": {
+    "model": [],
+    "version": [],
+    "all": true
+  },
+  "versionName": "1.0",
+  "versionCode": "1",
+  "force": true
+}
